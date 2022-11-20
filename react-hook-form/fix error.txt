@@ -1,0 +1,2 @@
+replace "start": "react-scripts start" by "start": "react-scripts --openssl-legacy-provider start"
+replace "build": "react-scripts build" by "build": "react-scripts --openssl-legacy-provider build"
